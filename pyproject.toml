@@ -12,11 +12,6 @@ jupyterlab = "^0.35.3"
 numpy = "^1.15"
 pandas = "^0.23.4"
 
-[tool.poetry.dev-dependencies]
-pytest = "^3.9"
-flake8 = "^3.6"
-mypy = "^0.641.0"
-
 [tool.pandora]
 name = "Municipios Brasileiros TSE"
 date = 2018-11-12T13:10:14.758Z
